@@ -38,7 +38,6 @@ The signature includes:
 ## Customization
 
 ### Personalizing the Signature
-- Replace the name "Tijme Vervoort" with your name
 - Update the address and contact information
 - Ensure image paths point to your hosted images
 
